@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+wordcloud
+altair
+plotly
+networkx
+pyvis
+streamlit
+scholarly
